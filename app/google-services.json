@@ -1,0 +1,707 @@
+{
+  "project_info": {
+    "project_number": "1050235899154",
+    "firebase_url": "https://ball-saving-default-rtdb.firebaseio.com",
+    "project_id": "ball-saving",
+    "storage_bucket": "ball-saving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:193d5563b6f87ab67377cb",
+        "android_client_info": {
+          "package_name": "brazil.group.waysoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:fe1814af8902f8487377cb",
+        "android_client_info": {
+          "package_name": "casino.football.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:64c4afacbd2669c37377cb",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PinballMadness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:b71c09c4a7e4d61a7377cb",
+        "android_client_info": {
+          "package_name": "com.example.casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:65794885f17878b17377cb",
+        "android_client_info": {
+          "package_name": "com.example.orangejuice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:498ba8952f0a87607377cb",
+        "android_client_info": {
+          "package_name": "com.example.tapgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:c3e48166a0e058d87377cb",
+        "android_client_info": {
+          "package_name": "com.example.testcasino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:ba821c31a4c2a2107377cb",
+        "android_client_info": {
+          "package_name": "com.lyadev.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:72ffc4f1d49466857377cb",
+        "android_client_info": {
+          "package_name": "com.miron.logisticquizfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:183d0705ce48c3c17377cb",
+        "android_client_info": {
+          "package_name": "com.oneconnect.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:ec2b872c2aecf1607377cb",
+        "android_client_info": {
+          "package_name": "com.pedestrian.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:090900c5f812c4457377cb",
+        "android_client_info": {
+          "package_name": "com.tetris.coine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:1089859bbe1ddf7d7377cb",
+        "android_client_info": {
+          "package_name": "com.william.hill.timberu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:8211deaeadf50a037377cb",
+        "android_client_info": {
+          "package_name": "ru.porcupine.bettingsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:84c5e8ef966d3ed47377cb",
+        "android_client_info": {
+          "package_name": "ru.porcupine.frogeater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:2ed8e0e7c84171147377cb",
+        "android_client_info": {
+          "package_name": "safs.dfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:165cf39fff6740b47377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.ballgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:44c0b887fdd6652e7377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:6383c0cf1c47de5f7377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.cityblocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:83340ddca9644b447377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.fish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:244aa756cfe3a4c77377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.fish2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:b843c997832fccf27377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.photoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:667c824a43cc93a77377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.pixbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050235899154:android:8d171a062968a89d7377cb",
+        "android_client_info": {
+          "package_name": "xyz.genscode.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh1yhMqzh1K3my0RpeuSNoZUHtv-ZJbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050235899154-dqtksdav7sllkf0psno6c91b65s4afuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
